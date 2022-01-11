@@ -1,0 +1,4 @@
+To view the webpage in your browser secondary click on the ‘index.html’ file and open with your chosen browser.
+
+Template thanks to:
+https://www.shapingrain.com
